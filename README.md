@@ -21,4 +21,4 @@ allure generate allure-results --clean -o allure-report
 ```
 allure serve allure-results
 ```
-![5](https://user-images.githubusercontent.com/96485899/154734722-76306e98-69d7-48bf-a94b-4419d16dbfee.PNG)
+
