@@ -7,7 +7,7 @@
 
 ## How to run this project
 1. Clone the repo
-2. Open cmd in the root folder
+2. Open terminal
 3. Give following commands:
 
 ```
