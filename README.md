@@ -15,7 +15,7 @@ gradle clean test
 ```
 
 ```
-allure generate allure-results --clean -o allure-report`
+allure generate allure-results --clean -o allure-report
 ```
 
 ```
