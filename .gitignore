@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+allure-report/
+allure-results/
+build.gradle
+build/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+
+
